@@ -1,7 +1,12 @@
 
 Hello yall, I'm Axell!
 <p>Senior at Texas State University</p>
-
+<a href="https://axellmartinez.com" >
+<img alt="Static Badge" src="https://img.shields.io/badge/personal%20website-red">
+</a>
+<a href="https://www.linkedin.com/in/axell-martinez-avila-158229223/" >
+<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue">
+</a>
 
 ### About me...  
 
