@@ -7,9 +7,7 @@ Hello yall, I'm Axell!
 <a href="https://www.linkedin.com/in/axell-martinez-avila-158229223/" >
 <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue">
 </a>
-<a href="https://railiant.us" >
-<img alt="Static Badge" src="https://img.shields.io/badge/railiant-red">
-</a>
+
 
 ### About me...  
 
