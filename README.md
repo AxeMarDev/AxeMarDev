@@ -13,21 +13,19 @@ Hello yall, I'm Axell!
 
 ```javascript
 const Axell = {
-    code: [ "Typescript","Ruby", "Rails", "c++","swift", "React"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: [ "Typescript","React", "Go", "c++", "Postgres"],
+    askMeAbout: ["web dev", "tech", "api development/consumption"],
     technologies: {
-        mobileApp: ["Ios with swift"],
         frontEnd: {
-            js: ["React"],
+            ts: ["React"],
             css: ["tailwinds", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express"],
+            go: ["gin"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Digitalocean"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "selenium"]
+        databases: ["mongo", "MySql", "sqlite", "postgres"]
     },
     funFact: { "Im from Texas yeehaa " }
 };
