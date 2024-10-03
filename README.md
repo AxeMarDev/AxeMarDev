@@ -1,6 +1,6 @@
 
 Hello yall, I'm Axell!
-<p>Senior at Texas State University</p>
+<p>Recent graduate from Texas State University</p>
 <a href="https://axellmartinez.com" >
 <img alt="Static Badge" src="https://img.shields.io/badge/personal%20website-green">
 </a>
