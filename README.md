@@ -18,15 +18,15 @@ const Axell = {
     technologies: {
         frontEnd: {
             ts: ["React"],
-            css: ["tailwinds", "bootstrap"]
+            css: ["tailwinds"]
         },
         backEnd: {
             js: ["node", "express"],
             go: ["gin"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Digitalocean"],
+        devOps: [ "Digital Ocean", "Route53", "Nginx", "Ubunto"],
         databases: ["mongo", "MySql", "sqlite", "postgres"]
     },
-    funFact: { "Im from Texas yeehaa " }
+    funFact: { "I love geography. I can name everyv county in Texas ( except the ones in the pan-handle XD) " }
 };
 ```
